@@ -1,12 +1,12 @@
 # Spiral Down Cut Router Bit
 
-Make your designs come to life with the Maker Made 1/4″ CNC Bit.
+Make your designs come to life with the Maker Made 1/4&#34; CNC Bit.
 
 Specifications:
 \* Shank: 1/4&#34;
-\* Diameter: 1/4″
-\* Cut Length: 1″
-\* Overall Length: 2-1/2″
+\* Diameter: 1/4&#34;
+\* Cut Length: 1&#34;
+\* Overall Length: 2-1/2&#34;
 \* Flutes: 2
 
 What is a downcut router bit?
