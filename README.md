@@ -15,7 +15,7 @@ For those who already own a Maslow Basic or Jumpstart Kit, the M2 Upgrade Bundle
 *Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team*
 ### ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [MakerMade](https://makermade.com/shop) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) to order!
 
 ## What’s Included:
 * Aluminum extruded z-axis module
@@ -43,7 +43,7 @@ You simply won’t find a CNC of this caliber, price, and support anywhere else 
 
 ### ***Use promo code MASLOW10 for 10% off your order!***
 
-Head over to [MakerMade](https://makermade.com/shop) to order!
+Head over to [MakerMade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) to order!
 
 
 
