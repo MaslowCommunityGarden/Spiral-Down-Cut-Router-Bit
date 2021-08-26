@@ -1,6 +1,6 @@
 # Maslow to M2 Upgrade Kit
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Spiral-Down-Cut-Router-Bit/Updates-August-2021/Photo_7.PNG)
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Spiral-Down-Cut-Router-Bit/Updates-August-2021/M2 Upgrade Kit.jpg)
 
 ## Upgrade your Maslow to an M2!
 For those who already own a Maslow Basic or Jumpstart Kit, the M2 Upgrade Bundle is the perfect way to take your making and milling projects to the next level. The M2 Upgrade addresses the key opportunities for the Maslow, namely:
