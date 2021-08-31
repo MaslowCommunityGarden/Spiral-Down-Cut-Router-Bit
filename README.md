@@ -1,17 +1,49 @@
-# Spiral Down Cut Router Bit
+# Maslow to M2 Upgrade Kit
 
-Make your designs come to life with the Maker Made 1/4" CNC Bit.
+![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Spiral-Down-Cut-Router-Bit/Updates-August-2021/M2_Upgrade_Kit.jpg)
 
-Head over to [Maker Made](http://www.makermade.com/shop) to order.
+## Upgrade your Maslow to an M2!
+For those who already own a Maslow Basic or Jumpstart Kit, the M2 Upgrade Bundle is the perfect way to take your making and milling projects to the next level. The M2 Upgrade addresses the key opportunities for the Maslow, namely:
 
-Specifications:
-* Shank: 1/4"
-* Diameter: 1/4"
-* Cut Length: 1"
-* Overall Length: 2-1/2"
-* Flutes: 2
+* Up to 40% faster cutting speed thanks to 2x z-axis movement and improved control board performance
+* Improvement of chain slack solution; reduced chance for chain wrap
+* Increased milling and z-axis accuracy
+* Simpler calibration process and overall user experience thanks to new control board and software
+* T-Nut locking system for z-axis offers easy, quick adjustment to swap out and center different router sizes
+* **JTech laser module ready** (2.8w laser and components included with laser option)  
 
-What is a downcut router bit?
-Downcut spiral tools are best used for thinner materials which will be pushed down into the machine bed rather than being lifted with an upcut spiral. This can be particularly useful when using vacuum hold down where maintaining the seal between the material and sacrificial bed is crucial. These tools are predominantly used when a high quality cut finish is required on the top surface of cut parts.
+*Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team*
+### ***Use promo code MASLOW10 for 10% off your order!***
 
-Downward spiral tools often require reduced cutting speeds because the chips are pushed back into the material. The chip extraction is generally less effective with this type of tool than it is with an upcut spiral tool.
+Head over to [MakerMade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) to order!
+
+## What’s Included:
+* Aluminum extruded z-axis module
+* 91 mm custom-milled, aluminum router clamp
+* GRBL DUE board with protective case
+* Spring with Carabiner hooks for drive chain slack
+* 3 1/8in router bits
+* 1/4-to-1/8in Collet Reducer
+* NOW INCLUDING M2 Dust Collection Sled
+* \*OPTIONAL* 2.8w Diode Laser & Necessary Components
+* \*Motors & Router NOT included.*
+
+
+## The MakerMade Guarantee:
+At MakerMade, we are committed to offering a fantastic product and great support. If there is an issue with the product you receive, we will make it right as quickly as possible. We offer:
+
+* A 30-day money back guarantee
+* 1 year parts-replacement warranty
+* Free technical support and calibration guarantee
+* Weekly live Q&A sessions
+* Detailed assembly guides & videos
+* A world-wide community with thousands of makers always ready to help and share ideas
+
+You simply won’t find a CNC of this caliber, price, and support anywhere else on the market.
+
+### ***Use promo code MASLOW10 for 10% off your order!***
+
+Head over to [MakerMade](https://makermade.com/collections/all/products/maslow-to-m2-upgrade-cnc-kit) to order!
+
+
+
