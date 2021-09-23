@@ -1,1 +1,1 @@
-Available at [Maker Made](https://www.makermade.com/shop)
+Available at [MakerMade](https://www.makermade.com/shop)
